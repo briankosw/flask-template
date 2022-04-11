@@ -1,0 +1,2 @@
+FLASK_APP=src/flask_template/app
+FLASK_ENV=development
